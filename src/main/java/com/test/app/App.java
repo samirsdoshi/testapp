@@ -18,5 +18,8 @@ public class App
     	return "Hello World!";
     }
 
+    public void method1(){
+        System.out.println("method1");
+    }
 
 }
