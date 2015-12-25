@@ -14,3 +14,4 @@ build
 *.jar
 *.war
 *.ear
+testapp.iws
