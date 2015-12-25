@@ -9,9 +9,9 @@ build
 .idea
 *.ipr
 *.iml
+*.iws
 
 # Package Files #
 *.jar
 *.war
 *.ear
-testapp.iws
